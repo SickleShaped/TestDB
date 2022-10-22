@@ -1,0 +1,13 @@
+D:\repos\db\db\bin\Debug\Dbtest.mdf
+D:\repos\db\db\bin\Debug\Dbtest_log.ldf
+D:\repos\db\db\bin\Debug\db.exe.config
+D:\repos\db\db\bin\Debug\db.exe
+D:\repos\db\db\bin\Debug\db.pdb
+D:\repos\db\db\obj\Debug\db.csproj.AssemblyReference.cache
+D:\repos\db\db\obj\Debug\db.csproj.SuggestedBindingRedirects.cache
+D:\repos\db\db\obj\Debug\db.Form1.resources
+D:\repos\db\db\obj\Debug\db.Properties.Resources.resources
+D:\repos\db\db\obj\Debug\db.csproj.GenerateResource.cache
+D:\repos\db\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+D:\repos\db\db\obj\Debug\db.exe
+D:\repos\db\db\obj\Debug\db.pdb
