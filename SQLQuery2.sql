@@ -1,1 +1,1 @@
-﻿INSERT INTO Students (Name, Subname, Birthday)  VALUES (N'Человек 1', N'Фамилия', '12/30/1991')
+﻿SELECT COUNT(DISTINCT CustomerID) FROM Orders

@@ -1,7 +1,1 @@
-﻿CREATE TABLE [dbo].[Student]
-(
-	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
-    [Name] NVARCHAR(50) NULL, 
-    [Subname] NVARCHAR(50) NULL, 
-    [Birthday] DATE NULL
-)
+﻿SELECT ProductName, UnitPrice*UnitsInStock AS N'Товаров на складе на сумму' FROM Products WHERE UnitsInStock>0
